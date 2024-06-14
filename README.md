@@ -1,4 +1,7 @@
+<center>
 <img src="https://images.sympla.com.br/5c3ce3ffb11b8.png" width="250" height="250">
+</center>
+
 # Programa de Formação Ager - Java
 Repositório contendo os módulos do Programa de Formação Ager
 
