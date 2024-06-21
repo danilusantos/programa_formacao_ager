@@ -4,3 +4,4 @@
 [submodule "logica-js-projeto_funcoes-listas"]
 	path = logica-js-projeto_funcoes-listas
 	url = git@github.com:danilusantos/logica-js-projeto_funcoes-listas.git
+	branch = main
