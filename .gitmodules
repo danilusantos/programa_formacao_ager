@@ -5,3 +5,6 @@
 	path = logica-js-projeto_funcoes-listas
 	url = git@github.com:danilusantos/logica-js-projeto_funcoes-listas.git
 	branch = main
+[submodule "java-oo_projeto-inicial"]
+	path = java-oo_projeto-inicial
+	url = https://github.com/danilusantos/java-oo_projeto-inicial.git
